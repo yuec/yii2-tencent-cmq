@@ -1,4 +1,6 @@
 <?php
+namespace tencent\cmq;
+
 /**
 * @author yuec
 * @description CMQ
