@@ -2,7 +2,7 @@
     "name": "yuec/yii2-tencent-cmq",
     "description":  "yii2-tencent-cmq",
     "keywords": ["yii2","cmq","tencent"],
-    "license": "GNU",
+    "license": "MIT",
     "authors": [
         {
             "name": "yuec",
