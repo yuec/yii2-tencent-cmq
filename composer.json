@@ -1,0 +1,25 @@
+{
+    "name": "yuec/yii2-tencent-cmq",
+    "description":  "yii2-tencent-cmq",
+    "keywords": ["yii2","cmq","tencent"],
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "yuec",
+            "email": "sinyuec@163.com",
+            "homepage": "https://github.com/yuec",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii2\\tencent\\cmq\\": "src/"
+        }
+    }
+}
